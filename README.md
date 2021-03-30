@@ -9,4 +9,4 @@ Now it will display if you guessed too high or too low or if you were correct.<b
 The `Again!` button will reset the values except for the high score.
 
 ## How to run it
-You can download the files and run it on your end by launchin the index.html file in a browser.
+You can download the files and run it on your end by launching the index.html file in a browser.
