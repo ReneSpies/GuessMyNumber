@@ -10,4 +10,4 @@ The `Again!` button will reset the values except for the high score.
 
 ## How to run it
 You can download the files and run it on your end by launching the index.html file in a browser,<br>
-or you can visit [my site](https://renespies.me/guess-my-number) and play the game there. 
+or you can visit [my homepage](https://renespies.me/guess-my-number) and play the game there. 
